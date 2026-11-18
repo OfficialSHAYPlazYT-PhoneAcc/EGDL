@@ -1,0 +1,24 @@
+{
+    "id": "scratch.mit.edu/projects/1439092423",
+    "name": "The Third Variant",
+    "author": "GDAqua",
+    "creators": ["GDAqua, MoseCoder"],
+    "verifier": "GDAqua",
+    "verification": "https://youtu.be/-VDY-pks5dM?si=K1WkTcSUnE755Q31",
+    "percentToQualify": "100",
+    "password": "Hitboxes",
+    "records": [
+        {
+            "user": "KINGMAST3R2O1O",
+            "link": "https://youtu.be/ewiJ-2SlAcg?si=gCFwRhN8EBYdWQaa",
+            "percent": 100,
+            "hz": 360
+        },
+          {
+            "user": "ShayK47",
+            "link": "https://youtu.be/bTnF8RSmZEA",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
