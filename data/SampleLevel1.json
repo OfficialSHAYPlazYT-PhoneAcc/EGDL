@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": "scratch.mit.edu/projects/1313260529",
+    "name": "Ephemeral Abyss",
+    "author": "GDAqua",
+    "creators": ["GDAqua", "MoseCoder"],
+    "verifier": "ShayK47",
+    "verification": "https://youtu.be/tvZEgNGRUUc?si=BY1nuzROnZtFl-j5",
+    "percentToQualify": "100",
+    "password": "Hitboxes",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+         {
+            "user": "KINGMAST3R2O1O",
+            "link": "https://youtu.be/BkbU_QQ4jA4",
             "percent": 100,
             "hz": 360
         }
