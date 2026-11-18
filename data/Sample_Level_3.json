@@ -1,24 +1,12 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "id": "scratch.mit.edu/projects/1395411647",
+    "name": "Solar Flare",
+    "author": "Dasamonky",
+    "creators": ["Dasamonky, MoseCoder"],
+    "verifier": "KINGMAST3R2O1O",
+    "verification": "https://youtu.be/rMZdNWoME8M?si=7c9vvXx8NBKZ73eD",
+    "percentToQualify": 100,
+    "password": "Hitboxes",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
