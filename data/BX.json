@@ -1,0 +1,18 @@
+{
+    "id": "scratch.mit.edu/projects/1442731747/",
+    "name": "Binbo X",
+    "author": "BeckettBulb",
+    "creators": ["BeckettBulb", "MoseCoder"],
+    "verifier": "ShayK47",
+    "verification": "https://youtu.be/Tsl21DHhQv0?si=nZMhjxraYycfkilg",
+    "percentToQualify": "100",
+    "password": "Hitboxes",
+    "records": [
+         {
+            "user": "TheBridgerMC",
+            "link": "https://www.tiktok.com/t/ZPNj2PDkk/",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
