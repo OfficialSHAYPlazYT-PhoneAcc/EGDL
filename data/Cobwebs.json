@@ -1,0 +1,24 @@
+{
+    "id": "https://scratch.mit.edu/projects/1258134294",
+    "name": "Cobwebs",
+    "author": "Showerless2804",
+    "creators": ["Showerless2804, MoseCoder"],
+    "verifier": "KINGMAST3R2O1O",
+    "verification": "https://youtu.be/66ZCp824zl8?si=WkIktwenkEYdzGeQ",
+    "percentToQualify": "100",
+    "password": "Hitboxes",
+    "records": [
+        {
+            "user": "XenoGMD",
+            "link": "https://youtu.be/qGFJEl-HRTs?si=WGmP6FG5ihzpeHA7",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ShayK47",
+            "link": "https://youtu.be/BxFFaGDxWXU?si=QYBOiFaYJJUA4jkS",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
