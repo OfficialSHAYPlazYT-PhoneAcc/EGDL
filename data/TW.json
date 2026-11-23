@@ -3,10 +3,16 @@
     "name": "Tidal Wave",
     "author": "MoseCoder",
     "creators": ["MoseCoder"],
-    "verifier": "KINGMAST3R2O1O",
-    "verification": "https://youtu.be/ddbVb0YI3jQ",
+    "verifier": "XenoGMD",
+    "verification": "https://youtu.be/dSbYmdz9BHM",
     "percentToQualify": 100,
     "password": "Hitboxes",
     "records": [
+         {
+            "user": "KINGMAST3R2O1O",
+            "link": "https://youtu.be/ddbVb0YI3jQ",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
