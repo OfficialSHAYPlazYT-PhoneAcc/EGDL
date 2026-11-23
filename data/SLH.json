@@ -1,0 +1,18 @@
+{
+    "id": "scratch.mit.edu/projects/1122411868",
+    "name": "Slaughterhouse",
+    "author": "MoseCoder",
+    "creators": ["MoseCoder"],
+    "verifier": "Gooomboo",
+    "verification": "https://youtu.be/HaKCB4-gVao?si=zdjAQ6xS0qOqLhh_",
+    "percentToQualify": "100",
+    "password": "Hitboxes",
+    "records": [
+         {
+            "user": "XenoGMD",
+            "link": "https://youtu.be/umRY1ofRJX4?si=e-UeQqShaTKu1h5e",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
