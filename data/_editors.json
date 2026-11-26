@@ -5,7 +5,7 @@
         "link": "https://www.youtube.com/@Shay-K_47"
     },
    {
-        "role": "helper",
+        "role": "owner",
         "name": "KINGMAST3R2O1O",
         "link": "https://youtube.com/@king_mast3r2o1o"
     },
@@ -13,5 +13,10 @@
         "role": "helper",
         "name": "ObbyNoob",
         "link": "https://youtube.com/@nathanhogaming"
+    },
+      {
+        "role": "helper",
+        "name": "AngoPR",
+        "link": "https://youtube.com/@angopr1"
     }
 ]
