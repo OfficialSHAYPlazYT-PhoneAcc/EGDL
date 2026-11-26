@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "BlindFolded",
     "records": [
+         {
+            "user": "ShayK47",
+            "link": "https://youtu.be/46nYlQXMDd0?si=vE0Hzdc5Lf6XWK1C",
+            "percent": 100,
+            "hz": 360
+        }
 ]
 }
